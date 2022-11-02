@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.challenge.baywa.controller.PowerDataApiControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.635 s - in com.challenge.baywa.controller.PowerDataApiControllerTest
